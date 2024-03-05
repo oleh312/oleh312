@@ -9,13 +9,14 @@
 <!-- about me -->
 <p align="center">
   Hi, I'm Oleh Strelba, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Ukraina 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
+    <br />
   🧑‍💼 I’m currently a freelancer working as a MERN stack developer.
+  <br />
+    <br />
+  🧑‍💼 I’m currently a freelancer working as a Three.sj and GSAP animation developer.
+  <br />
+    <br />
+  🧑‍💼 I’m currently a freelancer working as a OpenAI and Blockchain developer.
   <br />
 </p>
 <hr />
