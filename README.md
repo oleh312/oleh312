@@ -8,7 +8,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Oleh Strelba, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Ukraina 🇮🇳.
+  Hi, I'm Oleh Strelba, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Ukraina.
     <br />
   🧑‍💼 I’m a freelancer working as a MERN stack developer.
   <br />
